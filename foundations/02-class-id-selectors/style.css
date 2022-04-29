@@ -1,0 +1,18 @@
+.red {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#blue {
+    color:blue;
+    font-size: 36px;
+}
+
+#green {
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
+.red.third{
+    font-size: 24px;
+}
